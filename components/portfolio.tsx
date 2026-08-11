@@ -115,7 +115,7 @@ const projects = [
   },
 
   {
-    number: "04",
+    number: "03",
     title: "World Explorer",
     description: "Interactive country exploration application",
     tech: ["Next.js", "React", "Tailwind CSS"],
@@ -123,7 +123,7 @@ const projects = [
   },
 
   {
-    number: "05",
+    number: "04",
     title: "Heart Disease Prediction AI",
     description: "Machine learning prediction application",
     tech: ["Python", "Scikit-learn", "FastAPI"],
@@ -131,7 +131,7 @@ const projects = [
   },
 
   {
-    number: "06",
+    number: "05",
     title: "Movie Watchlist",
     description: "Movie discovery and watchlist application",
     tech: ["React", "JavaScript"],
@@ -139,7 +139,7 @@ const projects = [
     
   },
 {
-  number: "07",
+  number: "06",
   title: "Book Store",
   description: "Online Book Shopping Platform",
   tech: ["HTML", "CSS", "JavaScript"],
