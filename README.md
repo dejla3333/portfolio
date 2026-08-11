@@ -1,15 +1,6 @@
 # DEJLA SHARIFI
-
 <p align="center">
-  <strong>Frontend Developer · Creative Technologist · AI & Web Enthusiast</strong>
-</p>
-
-<p align="center">
-  Building modern, accessible, and meaningful digital experiences.
-</p>
-
-<p align="center">
-  <a href="https://your-vercel-domain.vercel.app">
+  <a href="https://portfolio-umber-eight-pj6hz0awue.vercel.app/en">
     <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
   </a>
   <a href="https://github.com/dejla3333">
@@ -19,7 +10,7 @@
 
 ---
 
-## ✦ Portfolio
+## Portfolio
 
 A personal portfolio website created to showcase my development journey, selected projects, technical skills, and experience.
 
@@ -31,7 +22,7 @@ The portfolio is designed around a **minimal black-and-white visual system**, su
 
 ---
 
-## ◉ Live Experience
+## Live Experience
 
 <p align="center">
   <a href="https://your-vercel-domain.vercel.app/en">
@@ -47,27 +38,13 @@ The portfolio is designed around a **minimal black-and-white visual system**, su
 
 ---
 
-## 🎬 Project Demo
-
-<p align="center">
-  <a href="./public/portfolio-demo.mp4">
-    <img src="./public/portfolio-preview.png" alt="Watch Portfolio Demo" width="800"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>▶ Watch the full portfolio demonstration</strong>
-</p>
-
----
-
 ## ✦ Highlights
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌍 Multilingual
+###  Multilingual
 
 English, Persian, and Pashto support with RTL/LTR layouts.
 
@@ -75,7 +52,7 @@ English, Persian, and Pashto support with RTL/LTR layouts.
 
 <td width="50%">
 
-### ◐ Dark / Light
+### Dark / Light
 
 A minimal theme system designed around a clean visual identity.
 
@@ -93,7 +70,7 @@ Subtle animations, transitions, and an introductory portfolio loader.
 
 <td width="50%">
 
-### ⚡ Responsive
+### Responsive
 
 Designed to work across desktop, tablet, and mobile screens.
 
@@ -103,7 +80,7 @@ Designed to work across desktop, tablet, and mobile screens.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
@@ -115,68 +92,7 @@ Designed to work across desktop, tablet, and mobile screens.
 
 ---
 
-## 📁 Architecture
-
-```text
-dejla-portfolio/
-│
-├── app/
-│   ├── [locale]/
-│   │   └── page.tsx
-│   ├── globals.css
-│   └── layout.tsx
-│
-├── components/
-│   ├── portfolio.tsx
-│   ├── portfolio-loader.tsx
-│   └── portfolio-page.tsx
-│
-├── content/
-│   ├── en.ts
-│   ├── fa.ts
-│   ├── ps.ts
-│   └── index.ts
-│
-├── public/
-│   ├── images/
-│   ├── portfolio-preview.png
-│   └── portfolio-demo.mp4
-│
-├── next.config.ts
-├── package.json
-├── tsconfig.json
-└── README.md
-```
-
----
-
-## ✦ Featured Projects
-
-### 01 — Opportunity Hub
-
-A platform for discovering jobs, scholarships, remote work, volunteering opportunities, and other career-development resources.
-
-**Stack:** Next.js · React · TypeScript
-
----
-
-### 02 — FikFinder
-
-A web-based fuel analysis application that provides an estimated fuel-quality result based on submitted fuel characteristics.
-
-**Stack:** HTML · CSS · JavaScript
-
----
-
-### 03 — Smart Password Security Checker
-
-A security-focused application designed to help users understand password strength and identify potential security risks.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS
-
----
-
-## 🌐 Internationalization
+## Internationalization
 
 The portfolio supports:
 
@@ -190,7 +106,7 @@ The interface adapts between **LTR and RTL** layouts depending on the selected l
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
@@ -219,7 +135,7 @@ http://localhost:3000
 
 ---
 
-## 🏗️ Production
+## Production
 
 Build the project:
 
@@ -235,7 +151,7 @@ npm start
 
 ---
 
-## ✦ Design Philosophy
+## Design Philosophy
 
 The portfolio follows a simple principle:
 
@@ -251,15 +167,6 @@ The interface focuses on:
 * Accessibility
 * Multilingual experiences
 * Meaningful interactions
-
----
-
-## 👩‍💻 About
-
-I'm **Dejla Sharifi**, a developer interested in frontend development, artificial intelligence, and building technology that addresses real-world problems.
-
-I'm continuously learning and experimenting with modern web technologies while building projects that combine **technology, creativity, and social impact**.
-
 ---
 
 ## ↗ Connect
