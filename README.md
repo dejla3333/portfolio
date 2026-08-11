@@ -1,36 +1,281 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DEJLA SHARIFI
 
-## Getting Started
+<p align="center">
+  <strong>Frontend Developer · Creative Technologist · AI & Web Enthusiast</strong>
+</p>
 
-First, run the development server:
+<p align="center">
+  Building modern, accessible, and meaningful digital experiences.
+</p>
+
+<p align="center">
+  <a href="https://your-vercel-domain.vercel.app">
+    <img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+  </a>
+  <a href="https://github.com/dejla3333">
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## ✦ Portfolio
+
+A personal portfolio website created to showcase my development journey, selected projects, technical skills, and experience.
+
+The portfolio is designed around a **minimal black-and-white visual system**, subtle motion, clean typography, and multilingual accessibility.
+
+<p align="center">
+  <img src="./public/portfolio-preview.png" alt="Dejla Sharifi Portfolio Preview" width="900"/>
+</p>
+
+---
+
+## ◉ Live Experience
+
+<p align="center">
+  <a href="https://your-vercel-domain.vercel.app/en">
+    <img src="https://img.shields.io/badge/ENGLISH-000000?style=for-the-badge" alt="English"/>
+  </a>
+  <a href="https://your-vercel-domain.vercel.app/fa">
+    <img src="https://img.shields.io/badge/فارسی-111111?style=for-the-badge" alt="Persian"/>
+  </a>
+  <a href="https://your-vercel-domain.vercel.app/ps">
+    <img src="https://img.shields.io/badge/پښتو-222222?style=for-the-badge" alt="Pashto"/>
+  </a>
+</p>
+
+---
+
+## 🎬 Project Demo
+
+<p align="center">
+  <a href="./public/portfolio-demo.mp4">
+    <img src="./public/portfolio-preview.png" alt="Watch Portfolio Demo" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Watch the full portfolio demonstration</strong>
+</p>
+
+---
+
+## ✦ Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 Multilingual
+
+English, Persian, and Pashto support with RTL/LTR layouts.
+
+</td>
+
+<td width="50%">
+
+### ◐ Dark / Light
+
+A minimal theme system designed around a clean visual identity.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ✦ Motion
+
+Subtle animations, transitions, and an introductory portfolio loader.
+
+</td>
+
+<td width="50%">
+
+### ⚡ Responsive
+
+Designed to work across desktop, tablet, and mobile screens.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-333333?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-444444?style=flat-square&logo=framer&logoColor=white"/>
+</p>
+
+---
+
+## 📁 Architecture
+
+```text
+dejla-portfolio/
+│
+├── app/
+│   ├── [locale]/
+│   │   └── page.tsx
+│   ├── globals.css
+│   └── layout.tsx
+│
+├── components/
+│   ├── portfolio.tsx
+│   ├── portfolio-loader.tsx
+│   └── portfolio-page.tsx
+│
+├── content/
+│   ├── en.ts
+│   ├── fa.ts
+│   ├── ps.ts
+│   └── index.ts
+│
+├── public/
+│   ├── images/
+│   ├── portfolio-preview.png
+│   └── portfolio-demo.mp4
+│
+├── next.config.ts
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## ✦ Featured Projects
+
+### 01 — Opportunity Hub
+
+A platform for discovering jobs, scholarships, remote work, volunteering opportunities, and other career-development resources.
+
+**Stack:** Next.js · React · TypeScript
+
+---
+
+### 02 — FikFinder
+
+A web-based fuel analysis application that provides an estimated fuel-quality result based on submitted fuel characteristics.
+
+**Stack:** HTML · CSS · JavaScript
+
+---
+
+### 03 — Smart Password Security Checker
+
+A security-focused application designed to help users understand password strength and identify potential security risks.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS
+
+---
+
+## 🌐 Internationalization
+
+The portfolio supports:
+
+```text
+/en    → English
+/fa    → فارسی
+/ps    → پښتو
+```
+
+The interface adapts between **LTR and RTL** layouts depending on the selected language.
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/dejla3333/portfolio.git
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🏗️ Production
 
-To learn more about Next.js, take a look at the following resources:
+Build the project:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Start the production server:
 
-## Deploy on Vercel
+```bash
+npm start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ✦ Design Philosophy
+
+The portfolio follows a simple principle:
+
+> **Less noise. More personality.**
+
+The interface focuses on:
+
+* Minimal visual language
+* Strong typography
+* Black & white aesthetics
+* Subtle motion
+* Responsive layouts
+* Accessibility
+* Multilingual experiences
+* Meaningful interactions
+
+---
+
+## 👩‍💻 About
+
+I'm **Dejla Sharifi**, a developer interested in frontend development, artificial intelligence, and building technology that addresses real-world problems.
+
+I'm continuously learning and experimenting with modern web technologies while building projects that combine **technology, creativity, and social impact**.
+
+---
+
+## ↗ Connect
+
+<p align="center">
+  <a href="https://github.com/dejla3333">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://your-vercel-domain.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed & built by Dejla Sharifi · 2026</sub>
+</p>
+v
